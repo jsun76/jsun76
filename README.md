@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Junjie Sun 👋
 
-🏫 My Education
+##🏫 My Education
 
 • Undergrad at McGill (Honor CompSci + Bio, '26)
 ## 🔬 Research Interests
@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - Reservoir computing and biological network structures  
 - Neuroscience and connectomics  
 - Machine learning for biological data  
-- Structural biology and molecular mechanisms## 🧪 Research & Experience
+- Structural biology and molecular mechanisms
+## 🧪 Research & Experience
 
 ### CEBSIT, Chinese Academy of Sciences  
 **Research Intern**  
