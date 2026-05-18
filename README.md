@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Junjie Sun 👋
 
-##🏫 My Education
+## 🏫 My Education
 
 • Undergrad at McGill (Honor CompSci + Bio, '26)
 ## 🔬 Research Interests
